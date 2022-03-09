@@ -1,0 +1,15 @@
+C:\Users\isaac\Documents\GitHub\Desafios de Projeto\Projeto RPG\bin\Debug\net6.0\Projeto RPG.exe
+C:\Users\isaac\Documents\GitHub\Desafios de Projeto\Projeto RPG\bin\Debug\net6.0\Projeto RPG.deps.json
+C:\Users\isaac\Documents\GitHub\Desafios de Projeto\Projeto RPG\bin\Debug\net6.0\Projeto RPG.runtimeconfig.json
+C:\Users\isaac\Documents\GitHub\Desafios de Projeto\Projeto RPG\bin\Debug\net6.0\Projeto RPG.dll
+C:\Users\isaac\Documents\GitHub\Desafios de Projeto\Projeto RPG\bin\Debug\net6.0\Projeto RPG.pdb
+C:\Users\isaac\Documents\GitHub\Desafios de Projeto\Projeto RPG\obj\Debug\net6.0\Projeto RPG.csproj.AssemblyReference.cache
+C:\Users\isaac\Documents\GitHub\Desafios de Projeto\Projeto RPG\obj\Debug\net6.0\Projeto RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaac\Documents\GitHub\Desafios de Projeto\Projeto RPG\obj\Debug\net6.0\Projeto RPG.AssemblyInfoInputs.cache
+C:\Users\isaac\Documents\GitHub\Desafios de Projeto\Projeto RPG\obj\Debug\net6.0\Projeto RPG.AssemblyInfo.cs
+C:\Users\isaac\Documents\GitHub\Desafios de Projeto\Projeto RPG\obj\Debug\net6.0\Projeto RPG.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Documents\GitHub\Desafios de Projeto\Projeto RPG\obj\Debug\net6.0\Projeto RPG.dll
+C:\Users\isaac\Documents\GitHub\Desafios de Projeto\Projeto RPG\obj\Debug\net6.0\refint\Projeto RPG.dll
+C:\Users\isaac\Documents\GitHub\Desafios de Projeto\Projeto RPG\obj\Debug\net6.0\Projeto RPG.pdb
+C:\Users\isaac\Documents\GitHub\Desafios de Projeto\Projeto RPG\obj\Debug\net6.0\Projeto RPG.genruntimeconfig.cache
+C:\Users\isaac\Documents\GitHub\Desafios de Projeto\Projeto RPG\obj\Debug\net6.0\ref\Projeto RPG.dll
